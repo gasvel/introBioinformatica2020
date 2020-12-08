@@ -10,7 +10,7 @@ Las estructuras de las proteínas se pueden clasificar por su contenido en estru
 3- Estudiá la proteína 2CPE. 
 a) ¿Qué tipo de proteína es? 
 
-	Tiene un núcleo concentrado con diferentes ramificaciones
+Tiene un núcleo concentrado con diferentes ramificaciones
 			
 b) ¿Cómo la describirías? Utilizá el comando “setall_states, on” para ver todos los estados conformacionales estimados para esa estructura. 
 
